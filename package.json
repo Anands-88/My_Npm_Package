@@ -1,0 +1,22 @@
+{
+  "name": "random_number",
+  "version": "1.0.0",
+  "description": "Package for getting random number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anands-88/My_Npm_Package.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "anandasholla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anands-88/My_Npm_Package/issues"
+  },
+  "homepage": "https://github.com/Anands-88/My_Npm_Package#readme"
+}
